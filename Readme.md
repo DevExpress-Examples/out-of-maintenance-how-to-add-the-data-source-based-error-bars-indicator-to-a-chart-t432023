@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DataSourceBasedErrorBars/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DataSourceBasedErrorBars/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Add the Data Source Based Error Bars indicator to a chart
 
 
